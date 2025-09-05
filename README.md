@@ -7,20 +7,20 @@
 ---
 
 ## ✨ Features
-- 📍 **Location-aware** flows (foreground permissions; background optional)
+- 📍 **Location-aware** flows (foreground permissions)
 - 🧭 **Geofenced** checks & simple rules (enter/exit area → action)
-- 🔗 **Shareable session links** (optional, via backend)
+- 🔗 **Shareable session links** ( via backend)
 - ⚡ **Instant dev run** on a physical device (Expo)
-- ☁️ **Backend API** (optional) for users/rooms/sessions
+
 
 ---
 
 ## 🧱 Tech Stack
-- **Mobile:** React Native + Expo (+ expo-router if used)  
-- **Backend (optional):** Node.js + Express (+ Socket/WebSocket if used)  
+- **Mobile:** React Native + Expo (+ expo-router )  
+- **Backend (optional):** Node.js + Express (+ Socket/WebSocket )  
 - **Storage (optional):** any (e.g., MongoDB/SQLite/Postgres)  
 - **Build/Dev:** Expo CLI, Metro bundler  
-- **Deployment:** Expo (EAS) for mobile; Render/any Node host for backend
+- **Deployment:** Expo (EAS) for mobile; 
 
 ---
 
