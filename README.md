@@ -17,8 +17,8 @@
 
 ## 🧱 Tech Stack
 - **Mobile:** React Native + Expo (+ expo-router )  
-- **Backend (optional):** Node.js + Express (+ Socket/WebSocket )  
-- **Storage (optional):** any (e.g., MongoDB/SQLite/Postgres)  
+- **Backend :** Node.js + Express 
+- **Storage :**  MongoDB
 - **Build/Dev:** Expo CLI, Metro bundler  
 - **Deployment:** Expo (EAS) for mobile; 
 
@@ -29,7 +29,7 @@
 - **Package manager:** `npm` or `pnpm` or `yarn`
 - **Expo CLI:** `npm i -g expo` (or use `npx expo`)
 - **Expo Go** app on your phone (from Play Store / App Store)
-- (Optional) **Backend** runtime (Node) and DB if you enable server features
+- **Backend** runtime (Node) and DB if you enable server features
 
 ---
 
